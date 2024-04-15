@@ -3,11 +3,11 @@
 module.exports = tools;
 module.exports = toolsc111;
 function tools() {
-  return 'Hello from lerna';
+  return 'Hello fromcsca lerna';
 }
 function toolsc(){
-  return 'Hello from toolsc';
+  return 'Hello from tcsacsaoolsc';
 }
 function toolsc111(){
-  return 'Hello from toolsc';
+  return 'Hello from toocsacaslsc';
 }

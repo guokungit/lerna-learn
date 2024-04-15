@@ -1,5 +1,5 @@
 {
-  "name": "tools",
+  "name": "goodkeeper/tools",
   "version": "0.0.4",
   "description": "> TODO: description",
   "author": "goodkeeper <guo2401143699@qq.com>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/tools.test.js"
-  }
+  },
+  "gitHead": "35295e96663d3f0b659482da1f4f9dec513d1625"
 }
