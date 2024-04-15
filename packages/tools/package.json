@@ -1,0 +1,19 @@
+{
+  "name": "tools",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "goodkeeper <guokun31740@jusha.com.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/tools.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/tools.test.js"
+  }
+}
